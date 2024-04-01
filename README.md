@@ -1,6 +1,14 @@
 # Twitter App
  A Twitter clone built using React and Firebase, featuring real-time updates, user authentication, and CRUD operations on tweets.
 
+ ## 🔗 Demo:
+(https://twitter-app-react-firebase.vercel.app/)
+
+## GIF
+
+![Screen_Recording_2024-04-01_at_20_08_59_AdobeExpress-ezgif com-video-to-gif-converter](https://github.com/tubayapa/Twitter-App-React-Firebase/assets/147662888/038045b0-3323-4e82-85dd-281718d6344c)
+
+
 ## Key Features:
 
 - **Real-time Updates**: Fetches and displays tweets in real-time using Firebase Firestore.
@@ -31,5 +39,4 @@ Install dependencies using npm install.
 Set up Firebase project and replace the Firebase configuration with your own.
 Run the application using npm start.
 
-🔗 Demo:
-Live Demo 
+
